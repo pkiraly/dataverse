@@ -40,6 +40,11 @@
         <flyway.version>5.2.4</flyway.version>
         <jhove.version>1.20.1</jhove.version>
         <jacoco.version>0.8.6</jacoco.version>
+
+        <!-- Sonar settings -->
+        <sonar.projectKey>pkiraly_dataverse</sonar.projectKey>
+        <sonar.organization>pkiraly</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
     <pluginRepositories>
         <pluginRepository>
